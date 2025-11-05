@@ -1,23 +1,55 @@
-# 👋 Hi, I'm Shreyas!
-👩🏻‍💻 Software Engineer by Profession, problem solver by passion<br/>
-👩🏻‍🎓 Studying Computer Science at the San Jose State University, California<br/>
-Code. Create. Innovate. Shreyas is at the helm of tech solutions! <br/>
+# 👋 Hi, I'm Shreyas Bhoyar
 
+I'm a Software Engineer passionate about building **scalable distributed systems** and **intelligent developer tools** that make technology more reliable and human-friendly.  
 
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=sbhoyar1009&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+My experience spans from **backend engineering and DevOps** to **machine learning applications**, with a focus on performance, observability, and clean design. I enjoy connecting systems that scale with ideas that inspire.
 
-# 💻 Tech Stack
-<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)<br/>
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+---
 
+### 💭 How I Work
 
+I believe in engineering that balances **clarity and complexity** — where architecture enables innovation, not friction.  
+I’m most engaged when solving problems that sit at the intersection of:
+- Real-time data processing and distributed pipelines  
+- Scalable cloud infrastructure and observability  
+- Applied AI for productivity and automation  
+
+---
+
+### 🧭 Currently
+
+📍 Based in San Jose, CA  
+🎓 Pursuing an M.S. in Computer Science at **San Jose State University**  
+💡 Exploring better ways to bridge **LLM-powered systems**, **event-driven backends**, and **developer experience**
+
+---
+
+### ⚙️ Tools & Domains I Enjoy
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-4285F4?logo=githubactions&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+
+---
+
+### 🌐 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyas-bhoyar)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/sbhoyar1009)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sbhoyar1009@gmail.com)
+
+---
+
+> “The most elegant systems are the ones that disappear into usefulness.”
